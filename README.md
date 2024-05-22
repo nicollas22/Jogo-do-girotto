@@ -36,4 +36,6 @@ História do jogo:
 Girotto é um corajoso aventureiro em busca de fama e glória. Ele se aventura em uma misteriosa dungeon cheia de perigos, monstros e armadilhas. Seu objetivo é encontrar a chave que abrirá o caminho para o próximo nível da dungeon e, eventualmente, desvendar os segredos ocultos nas profundezas.
 Cada nível da dungeon apresenta desafios únicos, desde monstros hostis até espinhos mortais. Girotto deve usar sua inteligência e habilidades para evitar os perigos, coletar tesouros e encontrar a chave que o levará ao próximo estágio.
 Enquanto avança pelos corredores escuros e salas sinistras, Girotto enfrenta desafios cada vez mais difíceis. Com cada nova chave encontrada, ele se aproxima do objetivo final: descobrir o segredo por trás da dungeon e enfrentar seu maior desafio.
-Será que Girotto conseguirá superar todos os obstáculos, derrotar os monstros e desvendar os mistérios da dungeon? A jornada está apenas começando para este intrépido aventureiro!
+Será que Girotto conseguirá superar todos os obstáculos, derrotar os monstros e desvendar os mistérios da dungeon? A jornada está apenas começando para este intrépido aventureirPor o!
+
+Por Nicollas Wan-Meyl e João Rodrigo
